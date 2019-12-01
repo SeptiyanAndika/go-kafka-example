@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/Shopify/sarama"
-	"kafka-test/plain/producer"
+	"github.com/septiyanandika/go-kafka-example/plain/producer"
 )
 
 const (

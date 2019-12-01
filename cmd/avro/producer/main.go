@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"kafka-test/avro/schema"
+	"github.com/septiyanandika/go-kafka-example/avro/schema"
 	"time"
 
 	"github.com/Shopify/sarama"
-	"kafka-test/avro/producer"
+	"github.com/septiyanandika/go-kafka-example/avro/producer"
 )
 
 const (

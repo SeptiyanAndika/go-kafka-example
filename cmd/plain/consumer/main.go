@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"kafka-test/plain/consumer"
+	"github.com/septiyanandika/go-kafka-example/plain/consumer"
 
 	"github.com/Shopify/sarama"
 )

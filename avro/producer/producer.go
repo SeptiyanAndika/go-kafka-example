@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/Shopify/sarama"
-	"kafka-test/avro/schema"
+	"github.com/septiyanandika/go-kafka-example/avro/schema"
 )
 
 type KafkaProducer struct {
